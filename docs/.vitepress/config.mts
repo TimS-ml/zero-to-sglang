@@ -57,6 +57,7 @@ const chSidebar: DefaultTheme.SidebarItem[] = [
       { text: '第 9 章 多进程与张量并行（概念）', link: '/ch/part2/第9章_多进程与张量并行' },
       { text: '第 9 章 多进程与张量并行（代码走读）', link: '/ch/part2/第9章_多进程与张量并行_代码'  },
       { text: '第 10 章 投机解码', link: '/ch/part2/第10章_投机解码' },
+      { text: '第 10 章 投机解码（代码走读）', link: '/ch/part2/第10章_投机解码_代码' },
     ],
   },
   {
@@ -139,6 +140,7 @@ const engSidebar: DefaultTheme.SidebarItem[] = [
       { text: 'Chapter 9 Multi-process and Tensor Parallelism (Concepts)', link: '/eng/part2/Chapter9_Multi-process-and-Tensor-Parallelism' },
       { text: 'Chapter 9 Multi-process and Tensor Parallelism (Code Walkthrough)', link: '/eng/part2/Chapter9_Multi-process-and-Tensor-Parallelism_code' },
       { text: 'Chapter 10 Speculative Decoding', link: '/eng/part2/Chapter10_Speculative-Decoding' },
+      { text: 'Chapter 10 Speculative Decoding (Code Walkthrough)', link: '/eng/part2/Chapter10_Speculative-Decoding_code' },
     ],
   },
   {
